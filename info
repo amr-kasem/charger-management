@@ -1,0 +1,4 @@
+AwsOcppGatewayStack.RemoteStartTransactionUrl = https://txxjjtyumtbrc2ofsv3kyhcx5u0osekq.lambda-url.eu-north-1.on.aws/
+AwsOcppGatewayStack.RemoteStopTransactionUrl = https://d4szrf4iw3czy56gbkvr7f25t40qjwoz.lambda-url.eu-north-1.on.aws/
+AwsOcppGatewayStack.loadBalancerDnsName = ocpp-gateway-8d6f491b1def795d.elb.eu-north-1.amazonaws.com
+AwsOcppGatewayStack.websocketURL = ws://ocpp-gateway-8d6f491b1def795d.elb.eu-north-1.amazonaws.com

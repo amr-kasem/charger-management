@@ -1,0 +1,4 @@
+boto3==1.37.3
+websockets==13.0
+paho-mqtt==1.6.1
+asyncio-mqtt==0.16.2
